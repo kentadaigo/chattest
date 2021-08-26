@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chattest/static/css/main.12b3e8cf.chunk.css",
+    "main.js": "/chattest/static/js/main.0ca3bd3a.chunk.js",
+    "main.js.map": "/chattest/static/js/main.0ca3bd3a.chunk.js.map",
+    "runtime-main.js": "/chattest/static/js/runtime-main.8d7487ab.js",
+    "runtime-main.js.map": "/chattest/static/js/runtime-main.8d7487ab.js.map",
+    "static/js/2.d6bda17a.chunk.js": "/chattest/static/js/2.d6bda17a.chunk.js",
+    "static/js/2.d6bda17a.chunk.js.map": "/chattest/static/js/2.d6bda17a.chunk.js.map",
+    "static/js/3.01be6cac.chunk.js": "/chattest/static/js/3.01be6cac.chunk.js",
+    "static/js/3.01be6cac.chunk.js.map": "/chattest/static/js/3.01be6cac.chunk.js.map",
+    "index.html": "/chattest/index.html",
+    "static/css/main.12b3e8cf.chunk.css.map": "/chattest/static/css/main.12b3e8cf.chunk.css.map",
+    "static/js/2.d6bda17a.chunk.js.LICENSE.txt": "/chattest/static/js/2.d6bda17a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7487ab.js",
+    "static/js/2.d6bda17a.chunk.js",
+    "static/css/main.12b3e8cf.chunk.css",
+    "static/js/main.0ca3bd3a.chunk.js"
+  ]
+}
